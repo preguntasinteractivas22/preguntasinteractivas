@@ -1,0 +1,317 @@
+[
+    {
+        "id": "c5b8b06982e017333ef2f1e68c89a798",
+        "pregunta": "Estructura física",
+        "respuestas": [
+            {
+                "respuesta": "Soy de estructura delgada; mis caderas y hombros son estrechos, de estatura baja o alta"
+            },
+            {
+                "respuesta": "Soy de estructura mediana, moderada, de estructura baja o alta"
+            },
+            {
+                "respuesta": "Soy corpulento; de hombros y caderas anchas, de estatura baja o alta"
+            }
+        ]
+    },
+    {
+        "id": "048b610df2b05a49b044f568aece4083",
+        "pregunta": "Complexión de la piel",
+        "respuestas": [
+            {
+                "respuesta": "Mi piel es apagada, sin brillo, seca "
+            },
+            {
+                "respuesta": "Mi piel es rosada, fina, brillante y sensible "
+            },
+            {
+                "respuesta": "Mi piel es blanca, suave y húmeda"
+            }
+        ]
+    },
+    {
+        "id": "56f924196d24ca81cdd1483cd95f0b90",
+        "pregunta": "Forma de las Articulaciones",
+        "respuestas": [
+            {
+                "respuesta": "Mis articulaciones son salientes, nudosas, con tendones prominentes y crujen con facilidad"
+            },
+            {
+                "respuesta": "Mis articulaciones son moderadas, bien proporcionadas"
+            },
+            {
+                "respuesta": "Mis articulaciones son grandes, robustas y bien lubricadas"
+            }
+        ]
+    },
+    {
+        "id": "d1fc1ab52b17bc4b5b756e5f1c829ce6",
+        "pregunta": "Forma de la cara",
+        "respuestas": [
+            {
+                "respuesta": "Alargada, angulosa, irregular"
+            },
+            {
+                "respuesta": "En forma de corazón, con mentón afilado"
+            },
+            {
+                "respuesta": "Ancha, redondeada, plena"
+            }
+        ]
+    },
+    {
+        "id": "00d41858b7721e97c06003c9813909ad",
+        "pregunta": "Forma de la lengua",
+        "respuestas": [
+            {
+                "respuesta": "Mi lengua es delgada, alargada, temblorosa"
+            },
+            {
+                "respuesta": "Mi lengua de forma cónica con punta fina"
+            },
+            {
+                "respuesta": "Mi lengua es ancha gruesa y con la punta redondeada"
+            }
+        ]
+    },
+    {
+        "id": "c46d330a19657f29b9c4cd8db8717e9f",
+        "pregunta": "Implantación del Cabello en la frente",
+        "respuestas": [
+            {
+                "respuesta": "Tengo salientes de cabello al costado de la frente"
+            },
+            {
+                "respuesta": "Tengo entradas importantes en los ángulos de la frente"
+            },
+            {
+                "respuesta": "La implantación de cabello en la frente es recta"
+            }
+        ]
+    },
+    {
+        "id": "a459ba47801ecb07ef0062ec9e31e561",
+        "pregunta": "Forma de las manos",
+        "respuestas": [
+            {
+                "respuesta": "Mis dedos son alargados con nudosidades como caña de bambú con uñas alargadas"
+            },
+            {
+                "respuesta": "Mis dedos son más anchos en la base que en la punta con uñas armónicas"
+            },
+            {
+                "respuesta": "Mis dedos son gruesos y anchos con la punta y las uñas anchas"
+            }
+        ]
+    },
+    {
+        "id": "6f4a6a243bea4f1de6eb401f49c6b544",
+        "pregunta": "Movimiento de los intestinos",
+        "respuestas": [
+            {
+                "respuesta": "Habitualmente tengo tendencia a constiparme, y tener gases "
+            },
+            {
+                "respuesta": "Habitualmente evacúo con facilidad y más de una vez al día "
+            },
+            {
+                "respuesta": "Tengo un ritmo de evacuación de los intestinos normal"
+            }
+        ]
+    },
+    {
+        "id": "ffad5297b603a1054a5c657ff2517fa2",
+        "pregunta": "Ritmo de comidas",
+        "respuestas": [
+            {
+                "respuesta": "Tengo horarios para alimentarme irregulares, suelo saltear comidas "
+            },
+            {
+                "respuesta": "El horario de mis comidas es importante; tengo pobre tolerancia al hambre "
+            },
+            {
+                "respuesta": "Puedo tolerar el hambre, me gusta hacer sobremesa"
+            }
+        ]
+    },
+    {
+        "id": "da1b1cc2d90b5c7af1d450dacd5e2997",
+        "pregunta": "Tolerancia a la Temperatura",
+        "respuestas": [
+            {
+                "respuesta": "No tolero los excesos de temperaturas extremas (calor ó frío) "
+            },
+            {
+                "respuesta": "No tolero el calor, pero si puedo tolerar el frío "
+            },
+            {
+                "respuesta": "Puedo tolerar tanto el frío como el calor"
+            }
+        ]
+    },
+    {
+        "id": "a93ee9680c54672ba68c00a855825813",
+        "pregunta": "Sudor",
+        "respuestas": [
+            {
+                "respuesta": "Mínimo, sin olor"
+            },
+            {
+                "respuesta": "Abundante, intenso, con olor, más en verano."
+            },
+            {
+                "respuesta": "Moderado, frío, aún en reposo"
+            }
+        ]
+    },
+    {
+        "id": "cd57d1e3ff3c36b349feb3968f6e49ec",
+        "pregunta": "Aumento y pérdida de peso",
+        "respuestas": [
+            {
+                "respuesta": "No puedo aumentar de peso, incluso comiendo"
+            },
+            {
+                "respuesta": "Puedo ganar o perder fácilmente de peso"
+            },
+            {
+                "respuesta": "Gano fácilmente peso, incluso sin mucho comer"
+            }
+        ]
+    },
+    {
+        "id": "5bef25a269eda71e42348e4a5039468d",
+        "pregunta": "Reacción de la piel al frío",
+        "respuestas": [
+            {
+                "respuesta": "Mi piel se seca o agrieta fácilmente"
+            },
+            {
+                "respuesta": "Ligeramente seca"
+            },
+            {
+                "respuesta": "Normal"
+            }
+        ]
+    },
+    {
+        "id": "1426c8ede28b5ae654c1c9ddc3ae0cd9",
+        "pregunta": "Estado de las Mucosas",
+        "respuestas": [
+            {
+                "respuesta": "Tengo tendencia a que mi boca y garganta estén secas"
+            },
+            {
+                "respuesta": "Mi boca se puede inflamar o la puedo sentir ácida"
+            },
+            {
+                "respuesta": "Tengo tendencia a producir flema y catarro"
+            }
+        ]
+    },
+    {
+        "id": "d8f17929638c8b0446ce109773f0b701",
+        "pregunta": "Nivel de actividad",
+        "respuestas": [
+            {
+                "respuesta": "Soy muy activo, a veces me agito, tiendo a hacer varias cosas a la vez "
+            },
+            {
+                "respuesta": "Mi nivel de actividad es moderado pero eficiente "
+            },
+            {
+                "respuesta": "Mi nivel de actividad es bajo, puedo ser lento y apático "
+            }
+        ]
+    },
+    {
+        "id": "d46c1b0d5925b6f155f47904cdc7fba0",
+        "pregunta": "Naturaleza de la inteligencia",
+        "respuestas": [
+            {
+                "respuesta": "Soy astuto, capto rápidamente y de inteligencia creativa"
+            },
+            {
+                "respuesta": "Soy detallista, de inteligencia analítica "
+            },
+            {
+                "respuesta": "Soy práctico, de inteligencia sintética"
+            }
+        ]
+    },
+    {
+        "id": "d0459a01e0b86540183c8b874bb54b85",
+        "pregunta": "Memoria",
+        "respuestas": [
+            {
+                "respuesta": "Mi memoria es auditiva; buena a corto plazo "
+            },
+            {
+                "respuesta": "Tengo memoria fotográfica"
+            },
+            {
+                "respuesta": "Tengo memoria sensorial, buena a largo plazo"
+            }
+        ]
+    },
+    {
+        "id": "4a27ae24e2256ea4d69b09d83a61bebc",
+        "pregunta": "Características del Habla",
+        "respuestas": [
+            {
+                "respuesta": "Soy charlatán, de habla rápida, a veces incoherente "
+            },
+            {
+                "respuesta": "Soy buen orador, coherente, agudo y claro"
+            },
+            {
+                "respuesta": "Hablo poco, lo necesario y concreto; puedo guardar silencio"
+            }
+        ]
+    },
+    {
+        "id": "4095a96f8637ce257b2dec0d26429430",
+        "pregunta": "Respuesta Emocional al Estrés",
+        "respuestas": [
+            {
+                "respuesta": "Pesimista, con miedos"
+            },
+            {
+                "respuesta": "Preocupado, con enojos"
+            },
+            {
+                "respuesta": "Con tranquilidad, posesivo"
+            }
+        ]
+    },
+    {
+        "id": "900be795344358c9e6f87c1d4f9aa972",
+        "pregunta": "Gestión de Recursos",
+        "respuestas": [
+            {
+                "respuesta": "Derrocha"
+            },
+            {
+                "respuesta": "Transforma"
+            },
+            {
+                "respuesta": "Conserva"
+            }
+        ]
+    },
+    {
+        "id": "6dc5cb4e6b45826c9ef35fc813209e0e",
+        "pregunta": "Sueño",
+        "respuestas": [
+            {
+                "respuesta": "Tengo el sueño ligero, irregular, duermo poco "
+            },
+            {
+                "respuesta": "Mi sueño es reparador pero corto"
+            },
+            {
+                "respuesta": "Profundo, dormilón"
+            }
+        ]
+    }
+]
